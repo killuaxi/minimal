@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Reg';
+    src: url(../fonts/Montserrat-Regular.ttf) format('truetype');
+    width: 400;
+}
+
+@font-face {
+    font-family: 'Reg-V';
+    src: url(../fonts/Vollkorn-Regular.ttf) format('truetype');
+    width: 400;
+}
